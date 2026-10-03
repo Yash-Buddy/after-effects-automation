@@ -5,6 +5,14 @@ animation and repetitive design workflows.
 
 ## Scripts
 
+Note
+
+These scripts are created to perform specific tasks and automate parts of my After Effects workflow.
+
+They may not work correctly for every project or setup. Please review the script and understand what it does before using it in your own project.
+
+If you’re unsure about how a script works or want to use it for a different workflow, feel free to ping me before using it.
+
 ### Auto Layout
 
 Automatically arranges selected layers with consistent spacing.
